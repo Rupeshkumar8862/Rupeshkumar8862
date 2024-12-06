@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rupeshkumar8862/Rupeshkumar8862/blob/main/github.gif)
 <h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right"alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1732752000&v=beta&t=pcnmZ4S51dRtT7pDbYQwLgM6VGq1I68qnVC9tCwNGaw">
+<img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <img  width="200" src="https://komarev.com/ghpvc/?username=rupeshkumar8862&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshkumar8862" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
