@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Rupesh+Kumar;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React.js+%7C+WordPress)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Rupesh+Kumar;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React.js)
 
 
 <img src="https://img.shields.io/badge/Software%20Developer-%233b82f6.svg?style=for-the-badge&logoColor=white"/>
