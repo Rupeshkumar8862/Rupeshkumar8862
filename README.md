@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=200&section=header&text=Rupesh%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20PHP%20%26%20Laravel%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Rupesh+Kumar;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React.js)
+
+<img src="https://img.shields.io/badge/Software%20Developer-%233b82f6.svg?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP%20%26%20Laravel%20Specialist-%236366f1.svg?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-%23ff9933.svg?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-kumar)
 [![Instagram](https://img.shields.io/badge/Instagram-rupeshtechnology-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupeshtechnology)
@@ -35,8 +41,8 @@ class RupeshKumar extends Developer
         "WordPress", "CRM/ERP Systems", "REST APIs",
     ];
 
-    public string $email    = "rupeshkumar.dmk49@gmail.com";
-    public string $blog     = "rupeshtechnologies.com/Blog.php?page=1";
+    public string $email = "rupeshkumar.dmk49@gmail.com";
+    public string $blog  = "rupeshtechnologies.com/Blog.php?page=1";
 }
 ```
 
@@ -91,7 +97,7 @@ class RupeshKumar extends Developer
       <h3>🌐 Portfolio</h3>
       <p>521+ projects — web, CRM, ERP & school software for 232+ clients.</p>
       <a href="https://www.rupeshtechnologies.com/portfolio-detail.php?page=1">
-        <img src="https://img.shields.io/badge/Visit-Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View-Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -110,12 +116,14 @@ class RupeshKumar extends Developer
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rupeshkumar8862&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=60a5fa&currStreakLabel=60a5fa" height="165"/>
+
 </div>
 
 ---
 
-## 🏢 About Rupesh Technologies
+## 🏢 Rupesh Technologies
 
 <div align="center">
 
@@ -124,14 +132,20 @@ class RupeshKumar extends Developer
 
 **Web Development · CRM · ERP · School Software**
 
-[![Visit Website](https://img.shields.io/badge/🌐%20Visit-rupeshtechnologies.com-3b82f6?style=for-the-badge)](https://rupeshtechnologies.com)
-[![View Portfolio](https://img.shields.io/badge/📂%20View-Portfolio-6366f1?style=for-the-badge)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
+<br/>
+
+[![Visit Website](https://img.shields.io/badge/🌐_Visit-rupeshtechnologies.com-3b82f6?style=for-the-badge)](https://rupeshtechnologies.com)
+&nbsp;
+[![View Portfolio](https://img.shields.io/badge/📂_View-Portfolio-6366f1?style=for-the-badge)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:3b82f6&height=100&section=footer" width="100%"/>
-  <sub>Open to collaboration on PHP/Laravel or React projects — feel free to reach out!</sub>
+
+**💬 Open to collaboration on PHP/Laravel or React projects — feel free to reach out!**
+
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=rupeshkumar.dmk49%40gmail.com;rupeshtechnologies.com)
+
 </div>
