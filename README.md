@@ -1,49 +1,75 @@
-![logo](https://github.com/Rupeshkumar8862/Rupeshkumar8862/blob/main/github.gif)
-<h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<p align="left"> <img  width="200" src="https://komarev.com/ghpvc/?username=rupeshkumar8862&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshkumar8862" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Rupesh Kumar
 
-- 🔭 I’m currently working as Software Developer [CRM PROJECT](https://software2.rupeshtechnologies.com/)
+**Software Developer · PHP & Laravel Specialist · India**
 
-- 🌱 I’m currently learning **LARAVEL-11 AND REACTJS,WORDPRESS Theme AND Plugin Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--kumar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rupesh-kumar)
+[![Instagram](https://img.shields.io/badge/Instagram-rupeshtechnology-E4405F?style=flat&logo=instagram)](https://instagram.com/rupeshtechnology)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=flat&logo=leetcode)](https://leetcode.com/kumarrupesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=flat&logo=vercel)](https://rupeshtechnologies.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/rupeshkumar8862)
 
-- 👯 I’m looking to collaborate on [PERSONAL WEBSITE](https://rupeshtechnologies.com/)
+</div>
 
-- 🤝 I have done so many project in PHP [DYNAMIC PROJECT](https://oopa.rupeshtechnologies.com/)
+---
 
-- 👨‍💻 All of my projects are available at [https://rupeshtechnologies.com](https://rupeshtechnologies.com)
+## About Me
 
-- 📝 I regularly write articles on [https://rupeshtechnologies.com/Blog.php?page=1](https://rupeshtechnologies.com/Blog.php?page=1)
+I'm a software developer from India with hands-on experience building full-stack web applications using PHP, Laravel, and modern JavaScript frameworks. My focus is on writing clean, maintainable code and delivering functional products — not just prototypes.
 
-- 📫 How to reach me **rupeshkumar.dmk49@gmail.com**
+Currently, I'm working on a **CRM system** ([software2.rupeshtechnologies.com](https://software2.rupeshtechnologies.com/)) that handles client and business workflow management. On the side, I'm deepening my skills in **Laravel 11**, **React.js**, and **WordPress theme & plugin development**.
 
-- ⚡ Fun fact **I Think I am Funny**
+I document what I learn through technical articles on my [blog](https://rupeshtechnologies.com/Blog.php?page=1) — because if I can't explain it, I don't fully understand it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rupesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupesh-kumar" height="30" width="40" /></a>
-<a href="https://fb.com/rupesh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rupesh yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/rupeshtechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupeshtechnology" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kumarrupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarrupesh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rupesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rupesh kumar" height="30" width="40" /></a>
-</p>
+📫 **Reach me:** rupeshkumar.dmk49@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTctlFGaNUoySqfDcvncevA0xwZqLM4QIWw&s" alt="rectjs" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJbZnC5drwG8xBczuFg005-nD9KfJoN8idw&s" alt="Nodejs" width="60" height="50"/> </a>
-      <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" alt="wordpress" width="40" height="40"/> </a>
-        <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWUui9EIa96qJ1Mh9_C1O8e0cufNRtgfTg&s" alt="AI" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshkumar8862&show_icons=true&locale=en&layout=compact" alt="rupeshkumar8862" /></p>
+## Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupeshkumar8862&show_icons=true&locale=en" alt="rupeshkumar8862" /></p>
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**CMS & Tools**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **CRM System** | Business CRM for client and workflow management | [Live](https://software2.rupeshtechnologies.com/) |
+| **Dynamic PHP Projects** | Collection of dynamic web apps built in PHP | [View](https://oopa.rupeshtechnologies.com/) |
+| **Personal Portfolio** | All projects, blog, and contact in one place | [Visit](https://rupeshtechnologies.com) |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rupeshkumar8862&show_icons=true&theme=default&hide_border=true" alt="Rupesh's GitHub Stats" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshkumar8862&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to collaboration on PHP/Laravel or React projects. Feel free to reach out.</sub>
+</div>
