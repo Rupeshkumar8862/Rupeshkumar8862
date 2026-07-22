@@ -11,9 +11,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-kumar)
 [![Instagram](https://img.shields.io/badge/Instagram-rupeshtechnology-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupeshtechnology)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&v=2)](https://leetcode.com/kumarrupesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=for-the-badge&logo=vercel&logoColor=white&v=2)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
-[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=3b82f6&style=for-the-badge&label=Profile+Views&v=2)](https://github.com/rupeshkumar8862)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kumarrupesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
+[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=3b82f6&style=for-the-badge&label=Profile+Views)](https://github.com/rupeshkumar8862)
 
 </div>
 
