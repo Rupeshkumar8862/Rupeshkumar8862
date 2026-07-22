@@ -11,9 +11,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-kumar)
 [![Instagram](https://img.shields.io/badge/Instagram-rupeshtechnology-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupeshtechnology)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kumarrupesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
-[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=3b82f6&style=for-the-badge&label=Profile+Views)](https://github.com/rupeshkumar8862)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&v=2)](https://leetcode.com/kumarrupesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=for-the-badge&logo=vercel&logoColor=white&v=2)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
+[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=3b82f6&style=for-the-badge&label=Profile+Views&v=2)](https://github.com/rupeshkumar8862)
 
 </div>
 
@@ -138,15 +138,5 @@ class RupeshKumar extends Developer
 [![Visit Website](https://img.shields.io/badge/🌐_Visit-rupeshtechnologies.com-3b82f6?style=for-the-badge)](https://rupeshtechnologies.com)
 &nbsp;
 [![View Portfolio](https://img.shields.io/badge/📂_View-Portfolio-6366f1?style=for-the-badge)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
-
-</div>
-
----
-
-<div align="center">
-
-**💬 Open to collaboration on PHP/Laravel or React projects — feel free to reach out!**
-
-![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=rupeshkumar.dmk49%40gmail.com;rupeshtechnologies.com)
 
 </div>
