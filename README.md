@@ -1,19 +1,15 @@
 <div align="center">
 
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Rupesh+Kumar;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React.js+%7C+WordPress)
+![Rupesh Technologies banner](./banner.svg)
 
-<img src="https://img.shields.io/badge/Software%20Developer-%233b82f6.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP%20%26%20Laravel%20Specialist-%236366f1.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-%23ff9933.svg?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-kumar)
 [![Instagram](https://img.shields.io/badge/Instagram-rupeshtechnology-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupeshtechnology)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kumarrupesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
-[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=3b82f6&style=for-the-badge&label=Profile+Views)](https://github.com/rupeshkumar8862)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kumarrupesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&v=2)](https://leetcode.com/kumarrupesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshtechnologies.com-000000?style=for-the-badge&logo=vercel&logoColor=white&v=2)](https://www.rupeshtechnologies.com/portfolio-detail.php?page=1)
+[![Profile Views](https://komarev.com/ghpvc/?username=rupeshkumar8862&color=3b82f6&style=for-the-badge&label=Profile+Views&v=2)](https://github.com/rupeshkumar8862)
 
 </div>
 
